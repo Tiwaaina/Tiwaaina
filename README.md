@@ -1,4 +1,5 @@
 Hi, I’m @Tiwaaina 👋
+
 👀 I’m passionate about Cancer Genomics and Autoimmune Disease Genomics  
 🌱 I’m currently learning Bioinformatics and exploring its real-world applications  
 💞️ I’m open to collaborations in Lupus Research and related genomics studies  
